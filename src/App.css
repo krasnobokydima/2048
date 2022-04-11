@@ -42,3 +42,9 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: grey;
 }
+
+.block--active {
+  position: absolute;
+  z-index: 5;
+  transition: 1s ease;
+}
